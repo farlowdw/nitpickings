@@ -5,6 +5,13 @@
 const bibItems = {
   printMaterials: [
     {
+      id: 'CP2022',
+      title: `Code: The Hidden Language of Computer Hardware and Software (2nd Edition)`,
+      author: 'Charles Petzold',
+      time: '2022',
+      link: 'https://www.amazon.com/dp/0137909101',
+    },
+    {
       id: 'ST1910',
       title: `Calculus Made Easy`,
       author: 'Silvanus P. Thompson and Martin Gardner',
